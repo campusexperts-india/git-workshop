@@ -1,2 +1,4 @@
-username: tanmaylpu
-fullname: Tanmay BHattacharjee
+---
+username: YOUR_USER_NAME
+fullname: YOUR_FULL_NAME
+---
